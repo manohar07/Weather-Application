@@ -1,0 +1,14 @@
+#belowNav{
+	padding-top: 75px;
+}
+.navbar-inverse {
+  background-color:#003366;
+  background-image: none;
+  background-repeat: no-repeat;
+}
+.navbar-inverse .navbar-header > a {
+    color: white;
+}
+.jumbotron{
+	background-color: #95d6e9; 
+}
